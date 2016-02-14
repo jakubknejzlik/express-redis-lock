@@ -1,5 +1,7 @@
 # express-redis-lock
 
+[![Build Status](https://travis-ci.org/jakubknejzlik/express-redis-lock.svg?branch=master)](https://travis-ci.org/jakubknejzlik/express-redis-lock)
+
 Route based locking methods for preventing race conditions using [redis-lock](https://www.npmjs.com/package/redis-lock)
 
 
