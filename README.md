@@ -9,7 +9,6 @@ Route based locking methods for preventing race conditions using [redis-lock](ht
 // initialize express/redis
 var express = require('express');
 var redis = require('redis');
-
 var expressRedisLock = require('express-redis-lock');
 
 var app = express();
